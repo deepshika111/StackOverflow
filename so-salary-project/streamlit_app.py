@@ -127,13 +127,29 @@ def normalize_loaded_frame(df: pd.DataFrame) -> pd.DataFrame:
 
 def load_feature_matrix() -> tuple[pd.DataFrame | None, str | None]:
     source_path: Path | None = None
+    parquet_error: Exception | None = None
     if PARQUET_PATH.exists():
-        df = pd.read_parquet(PARQUET_PATH)
-        source_path = PARQUET_PATH
-    elif FEATURE_MATRIX_PATH.exists():
+        try:
+            df = pd.read_parquet(PARQUET_PATH)
+            source_path = PARQUET_PATH
+        except Exception as exc:
+            parquet_error = exc
+            df = None
+    else:
+        df = None
+
+    if df is None and FEATURE_MATRIX_PATH.exists():
         df = pd.read_csv(FEATURE_MATRIX_PATH)
         source_path = FEATURE_MATRIX_PATH
-    else:
+
+    if df is None:
+        if parquet_error is not None:
+            return (
+                None,
+                "The parquet file exists but could not be read, and the CSV fallback is missing. "
+                f"Parquet error: `{parquet_error}`. Run `python3 python/export_outputs.py` "
+                "or regenerate the pipeline outputs.",
+            )
         return None, "No processed dataset found yet. Run `python3 python/etl.py` first."
 
     df = normalize_loaded_frame(df)
