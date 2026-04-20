@@ -1,0 +1,27 @@
+Median Salary =
+PERCENTILEX.INC(
+    ALLSELECTED(feature_matrix),
+    feature_matrix[ConvertedCompYearly],
+    0.5
+)
+
+P75 Salary =
+PERCENTILEX.INC(
+    ALLSELECTED(feature_matrix),
+    feature_matrix[ConvertedCompYearly],
+    0.75
+)
+
+Sample Size =
+COUNTROWS(feature_matrix)
+
+Estimated Salary =
+VAR BaseIntercept = 10.9
+VAR YearsExpCoef = 0.031
+VAR SqlCoef = 0.087
+RETURN
+EXP(
+    BaseIntercept
+    + YearsExpCoef * [YearsExpParam Value]
+    + SqlCoef * [HasSQLParam Value]
+)
