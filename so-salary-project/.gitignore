@@ -11,6 +11,17 @@ data/raw/*
 
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/survey_clean.parquet
+!data/processed/multiselect_reference.json
 
 outputs/*
 !outputs/.gitkeep
+!outputs/feature_matrix.csv
+!outputs/skill_premiums.csv
+!outputs/benchmarking_table.csv
+!outputs/regression_results.csv
+!outputs/regression_model_summary.csv
+!outputs/cluster_labels.csv
+!outputs/cluster_profiles.csv
+!outputs/cluster_role_alignment.csv
+!outputs/cluster_elbow_plot.png

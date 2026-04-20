@@ -1,0 +1,212 @@
+role,country_group,exp_bucket,median,p75,n
+AI/ML engineer,other,0-2yr,36089.0,54432.0,17
+AI/ML engineer,other,3-5yr,45847.0,55687.0,29
+AI/ML engineer,other,6-10yr,78910.0,105525.75,32
+AI/ML engineer,other,11-20yr,89427.0,123339.5,31
+AI/ML engineer,other,20yr+,87011.0,113823.5,11
+AI/ML engineer,tier1,0-2yr,82000.0,100000.0,17
+AI/ML engineer,tier1,3-5yr,110000.0,151000.0,29
+AI/ML engineer,tier1,6-10yr,145522.5,201529.25,40
+AI/ML engineer,tier1,11-20yr,173492.0,212500.0,28
+AI/ML engineer,tier1,20yr+,200000.0,251250.0,24
+Academic researcher,other,0-2yr,30396.0,34514.0,10
+Academic researcher,other,3-5yr,35965.0,44375.5,35
+Academic researcher,other,6-10yr,43501.0,60235.0,33
+Academic researcher,other,11-20yr,46406.0,64191.5,39
+Academic researcher,other,20yr+,64968.0,75410.0,33
+Academic researcher,tier1,0-2yr,58007.0,69304.5,19
+Academic researcher,tier1,3-5yr,67680.0,75431.25,44
+Academic researcher,tier1,6-10yr,71510.0,87011.0,51
+Academic researcher,tier1,11-20yr,81210.0,102803.0,63
+Academic researcher,tier1,20yr+,103277.5,133750.0,30
+Applied scientist,tier1,3-5yr,102097.0,140750.0,10
+Applied scientist,tier1,6-10yr,132609.0,152500.0,20
+Applied scientist,tier1,11-20yr,157500.0,240000.0,32
+Applied scientist,tier1,20yr+,141303.5,200000.0,24
+"Architect, software or solutions",india,6-10yr,34872.0,49982.75,14
+"Architect, software or solutions",india,11-20yr,55795.0,70615.75,32
+"Architect, software or solutions",other,3-5yr,37210.0,46406.0,29
+"Architect, software or solutions",other,6-10yr,68906.0,89973.0,96
+"Architect, software or solutions",other,11-20yr,75577.0,109255.75,248
+"Architect, software or solutions",other,20yr+,84093.0,116015.0,186
+"Architect, software or solutions",tier1,3-5yr,87011.0,115000.0,14
+"Architect, software or solutions",tier1,6-10yr,116015.0,150000.0,69
+"Architect, software or solutions",tier1,11-20yr,136141.0,175000.0,246
+"Architect, software or solutions",tier1,20yr+,153989.0,203159.0,306
+Cloud infrastructure engineer,other,3-5yr,46603.0,58123.0,20
+Cloud infrastructure engineer,other,6-10yr,71156.0,98027.0,21
+Cloud infrastructure engineer,other,11-20yr,87011.0,97162.0,22
+Cloud infrastructure engineer,tier1,3-5yr,79043.0,102962.75,14
+Cloud infrastructure engineer,tier1,6-10yr,155000.0,290000.0,31
+Cloud infrastructure engineer,tier1,11-20yr,171000.0,205913.0,55
+Cloud infrastructure engineer,tier1,20yr+,163370.0,193429.0,21
+Cybersecurity or InfoSec professional,other,20yr+,105573.0,118625.0,10
+Cybersecurity or InfoSec professional,tier1,0-2yr,101417.0,121536.25,10
+Cybersecurity or InfoSec professional,tier1,3-5yr,92812.0,109719.0,15
+Cybersecurity or InfoSec professional,tier1,6-10yr,140000.0,197514.0,27
+Cybersecurity or InfoSec professional,tier1,11-20yr,125000.0,228913.0,27
+Cybersecurity or InfoSec professional,tier1,20yr+,162011.0,200000.0,22
+Data engineer,other,0-2yr,34050.0,41073.25,12
+Data engineer,other,3-5yr,46406.0,58114.0,37
+Data engineer,other,6-10yr,69609.0,88402.75,56
+Data engineer,other,11-20yr,69609.0,85486.0,56
+Data engineer,other,20yr+,56934.0,91582.5,23
+Data engineer,tier1,3-5yr,90000.0,116637.0,35
+Data engineer,tier1,6-10yr,120000.0,165000.0,53
+Data engineer,tier1,11-20yr,125000.0,160000.0,49
+Data engineer,tier1,20yr+,149395.5,202500.0,44
+Data or business analyst,other,3-5yr,27513.0,40303.75,14
+Data or business analyst,other,6-10yr,23966.0,58007.0,13
+Data or business analyst,other,11-20yr,40958.0,55687.0,17
+Data or business analyst,tier1,3-5yr,67637.0,96590.5,11
+Data or business analyst,tier1,6-10yr,80025.0,99378.5,18
+Data or business analyst,tier1,11-20yr,96500.0,117261.25,24
+Data or business analyst,tier1,20yr+,83756.0,103750.0,18
+Data scientist,other,0-2yr,45246.0,52786.75,10
+Data scientist,other,3-5yr,52169.0,68304.0,24
+Data scientist,other,6-10yr,79636.0,112264.25,34
+Data scientist,other,11-20yr,69271.0,81377.0,21
+Data scientist,other,20yr+,69609.0,105795.75,12
+Data scientist,tier1,0-2yr,64040.0,75000.0,13
+Data scientist,tier1,3-5yr,80000.0,104706.5,31
+Data scientist,tier1,6-10yr,116015.0,148791.0,45
+Data scientist,tier1,11-20yr,125000.0,176131.0,49
+Data scientist,tier1,20yr+,172588.5,206619.5,22
+Database administrator or engineer,tier1,6-10yr,112206.5,139804.5,10
+Database administrator or engineer,tier1,20yr+,140000.0,162143.25,24
+DevOps engineer or professional,other,0-2yr,25272.0,37591.0,13
+DevOps engineer or professional,other,3-5yr,48146.0,60362.5,39
+DevOps engineer or professional,other,6-10yr,62893.0,81210.0,67
+DevOps engineer or professional,other,11-20yr,77940.5,104326.0,72
+DevOps engineer or professional,other,20yr+,75410.0,104413.0,37
+DevOps engineer or professional,tier1,0-2yr,87550.0,99906.0,11
+DevOps engineer or professional,tier1,3-5yr,79470.5,132611.0,42
+DevOps engineer or professional,tier1,6-10yr,103253.0,140060.0,74
+DevOps engineer or professional,tier1,11-20yr,134099.0,172087.5,116
+DevOps engineer or professional,tier1,20yr+,134973.0,200000.0,91
+"Developer, AI apps or physical AI",other,6-10yr,67509.0,85698.5,10
+"Developer, AI apps or physical AI",tier1,6-10yr,98146.0,175678.75,10
+"Developer, QA or test",other,3-5yr,41786.0,47203.0,19
+"Developer, QA or test",other,6-10yr,44933.0,65258.0,21
+"Developer, QA or test",other,11-20yr,63808.0,73692.5,23
+"Developer, QA or test",tier1,3-5yr,75410.0,103500.0,11
+"Developer, QA or test",tier1,6-10yr,83600.0,120000.0,17
+"Developer, QA or test",tier1,11-20yr,101734.0,146750.0,24
+"Developer, QA or test",tier1,20yr+,122000.0,176800.0,16
+"Developer, back-end",india,0-2yr,15692.5,27316.0,14
+"Developer, back-end",india,3-5yr,23829.0,35090.0,36
+"Developer, back-end",india,6-10yr,40102.5,57538.75,58
+"Developer, back-end",india,11-20yr,41846.0,61607.0,29
+"Developer, back-end",other,0-2yr,28518.0,44025.0,88
+"Developer, back-end",other,3-5yr,38381.0,56661.0,291
+"Developer, back-end",other,6-10yr,65496.0,84629.5,439
+"Developer, back-end",other,11-20yr,75693.0,100000.0,481
+"Developer, back-end",other,20yr+,76570.0,105992.0,164
+"Developer, back-end",tier1,0-2yr,72958.0,92000.0,61
+"Developer, back-end",tier1,3-5yr,88492.0,127616.0,161
+"Developer, back-end",tier1,6-10yr,117017.0,175000.0,345
+"Developer, back-end",tier1,11-20yr,135000.0,185997.25,514
+"Developer, back-end",tier1,20yr+,142293.5,198791.75,324
+"Developer, desktop or enterprise applications",other,0-2yr,27552.0,47740.0,34
+"Developer, desktop or enterprise applications",other,3-5yr,40605.0,58007.0,57
+"Developer, desktop or enterprise applications",other,6-10yr,56167.0,68738.5,71
+"Developer, desktop or enterprise applications",other,11-20yr,57607.0,73095.0,95
+"Developer, desktop or enterprise applications",other,20yr+,63808.0,83857.0,101
+"Developer, desktop or enterprise applications",tier1,0-2yr,63808.0,100000.0,37
+"Developer, desktop or enterprise applications",tier1,3-5yr,81685.0,99194.0,61
+"Developer, desktop or enterprise applications",tier1,6-10yr,90000.0,120000.0,94
+"Developer, desktop or enterprise applications",tier1,11-20yr,110214.0,145000.0,127
+"Developer, desktop or enterprise applications",tier1,20yr+,115000.0,150819.0,188
+"Developer, embedded applications or devices",other,0-2yr,46406.0,52946.0,29
+"Developer, embedded applications or devices",other,3-5yr,41786.0,58007.0,65
+"Developer, embedded applications or devices",other,6-10yr,58007.0,71349.0,70
+"Developer, embedded applications or devices",other,11-20yr,80519.5,116015.0,70
+"Developer, embedded applications or devices",other,20yr+,79067.5,110715.25,56
+"Developer, embedded applications or devices",tier1,0-2yr,72203.0,88000.0,34
+"Developer, embedded applications or devices",tier1,3-5yr,90000.0,113000.0,55
+"Developer, embedded applications or devices",tier1,6-10yr,109114.0,139218.0,81
+"Developer, embedded applications or devices",tier1,11-20yr,110214.0,150000.0,77
+"Developer, embedded applications or devices",tier1,20yr+,140000.0,175992.0,87
+"Developer, front-end",india,6-10yr,31966.0,49982.75,18
+"Developer, front-end",india,11-20yr,40684.0,49983.0,11
+"Developer, front-end",other,0-2yr,30000.0,40025.0,27
+"Developer, front-end",other,3-5yr,37285.0,55687.0,80
+"Developer, front-end",other,6-10yr,54000.0,70769.0,145
+"Developer, front-end",other,11-20yr,70440.0,88656.5,115
+"Developer, front-end",other,20yr+,73274.0,95773.0,24
+"Developer, front-end",tier1,0-2yr,54295.0,64654.0,23
+"Developer, front-end",tier1,3-5yr,66476.0,87881.0,50
+"Developer, front-end",tier1,6-10yr,98202.0,150000.0,109
+"Developer, front-end",tier1,11-20yr,125656.0,170000.0,124
+"Developer, front-end",tier1,20yr+,110000.0,147009.0,59
+"Developer, full-stack",india,0-2yr,13949.0,23248.0,17
+"Developer, full-stack",india,3-5yr,18598.0,26154.0,55
+"Developer, full-stack",india,6-10yr,25573.0,37197.0,65
+"Developer, full-stack",india,11-20yr,44171.0,58120.0,37
+"Developer, full-stack",other,0-2yr,26457.0,42545.0,191
+"Developer, full-stack",other,3-5yr,36417.5,54000.75,490
+"Developer, full-stack",other,6-10yr,52207.0,74928.25,638
+"Developer, full-stack",other,11-20yr,69609.0,92812.0,646
+"Developer, full-stack",other,20yr+,68189.5,103315.75,292
+"Developer, full-stack",tier1,0-2yr,60000.0,87000.0,183
+"Developer, full-stack",tier1,3-5yr,75000.0,101000.0,441
+"Developer, full-stack",tier1,6-10yr,104015.0,145000.0,806
+"Developer, full-stack",tier1,11-20yr,117508.5,162446.5,996
+"Developer, full-stack",tier1,20yr+,124014.5,162000.0,666
+"Developer, game or graphics",other,3-5yr,40195.0,48130.5,18
+"Developer, game or graphics",other,6-10yr,65527.5,79658.25,10
+"Developer, game or graphics",other,11-20yr,85029.5,101882.0,26
+"Developer, game or graphics",tier1,6-10yr,83902.0,150000.0,21
+"Developer, game or graphics",tier1,11-20yr,117017.0,185630.5,23
+"Developer, mobile",other,0-2yr,32484.0,45882.5,15
+"Developer, mobile",other,3-5yr,35493.0,45518.75,60
+"Developer, mobile",other,6-10yr,59492.0,83394.25,88
+"Developer, mobile",other,11-20yr,72646.0,99666.25,86
+"Developer, mobile",other,20yr+,75410.0,103146.0,15
+"Developer, mobile",tier1,0-2yr,49928.5,71566.0,10
+"Developer, mobile",tier1,3-5yr,71499.0,95691.5,15
+"Developer, mobile",tier1,6-10yr,103253.0,150000.0,59
+"Developer, mobile",tier1,11-20yr,129334.0,182250.0,98
+"Developer, mobile",tier1,20yr+,148000.0,203912.0,47
+Engineering manager,india,11-20yr,75556.0,95898.0,15
+Engineering manager,other,6-10yr,81210.0,108893.25,58
+Engineering manager,other,11-20yr,100314.5,140668.0,104
+Engineering manager,other,20yr+,94743.5,120802.5,50
+Engineering manager,tier1,6-10yr,138070.5,175000.0,54
+Engineering manager,tier1,11-20yr,163581.0,208562.0,173
+Engineering manager,tier1,20yr+,179806.5,222048.0,148
+"Founder, technology or otherwise",tier1,11-20yr,189692.0,240000.0,21
+"Founder, technology or otherwise",tier1,20yr+,120000.0,235000.0,13
+Other (please specify):,other,0-2yr,36747.0,49408.5,19
+Other (please specify):,other,3-5yr,47528.5,61894.0,28
+Other (please specify):,other,6-10yr,46174.0,66199.0,58
+Other (please specify):,other,11-20yr,67289.0,85271.0,51
+Other (please specify):,other,20yr+,84255.5,103504.0,50
+Other (please specify):,tier1,0-2yr,50000.0,86842.5,31
+Other (please specify):,tier1,3-5yr,69500.0,95993.5,42
+Other (please specify):,tier1,6-10yr,102206.5,149093.25,72
+Other (please specify):,tier1,11-20yr,130000.0,185494.5,95
+Other (please specify):,tier1,20yr+,116015.0,160000.0,101
+Product manager,other,20yr+,88171.0,116015.0,13
+Product manager,tier1,6-10yr,150000.0,182237.0,11
+Product manager,tier1,11-20yr,167500.0,191991.75,24
+Product manager,tier1,20yr+,169185.0,212000.0,24
+Project manager,other,11-20yr,52842.0,68924.0,21
+Project manager,other,20yr+,74818.0,92812.0,18
+Project manager,tier1,11-20yr,112464.0,142118.25,20
+Project manager,tier1,20yr+,133808.0,220796.75,20
+"Senior executive (C-suite, VP, etc.)",other,11-20yr,103786.0,139218.0,49
+"Senior executive (C-suite, VP, etc.)",other,20yr+,120900.5,187583.5,36
+"Senior executive (C-suite, VP, etc.)",tier1,11-20yr,175650.0,221250.0,52
+"Senior executive (C-suite, VP, etc.)",tier1,20yr+,200000.0,265000.0,66
+Support engineer or analyst,other,11-20yr,49886.0,75410.0,13
+Support engineer or analyst,tier1,11-20yr,80428.0,103903.75,14
+Support engineer or analyst,tier1,20yr+,101327.0,165250.0,16
+System administrator,other,3-5yr,33776.0,40823.5,10
+System administrator,other,6-10yr,41765.0,46655.25,12
+System administrator,other,11-20yr,41765.0,48188.0,21
+System administrator,other,20yr+,52207.0,72627.0,16
+System administrator,tier1,3-5yr,58782.5,76892.5,14
+System administrator,tier1,6-10yr,85000.0,120998.25,28
+System administrator,tier1,11-20yr,100000.0,124029.0,29
+System administrator,tier1,20yr+,93420.0,120000.0,32
